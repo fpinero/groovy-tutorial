@@ -1,0 +1,7 @@
+lib/*
+out/*
+./lib
+./out
+/out/
+/lib/
+/.idea/
